@@ -2,15 +2,12 @@
 //   title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
 const questions = [
     {
-        /*  WHEN I enter my project title
-            THEN this is displayed as the title of the README */
+     
         type: 'input',
         message: 'What is the title of your README file?',
         name: 'projectTitle',
     },
-    /* WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
-THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
- */
+    
     {
         type: 'editor',
         message: 'What was your motivation?',
