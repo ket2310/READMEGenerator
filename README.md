@@ -8,7 +8,7 @@
 	 * Type 'node index'. 
 
 ## USAGES: 
-	 ![README Generator](images/readmescreen.png) 
+![README Generator](images/readmescreen.png) 
 
 ## CONTRIBUTING: 
 	 *  There are many ways in which you can participate in this project, for example:
