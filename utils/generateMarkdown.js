@@ -15,7 +15,7 @@ function generateMarkdown(data) {
   return  `# ${data.projectTitle} \n\n` + 
   `## DESCRIPTION: \n\t * ${data.description} \n\n` +
   `## HOW TO INSTALL: \n\t * ${data.installation} \n\n` +
-  `## USAGES: \n\t * ${data.usages} \n\n` +
+  `## USAGES: \n\t ${data.usages} \n\n` +
   `## CONTRIBUTING: \n\t *  ${data.contributing} \n\n` +
   `## LICENCES: \n\t * ${data.license} \n\n` +
   `## QUESTIONS: \n\t * See github.com/${data.ghUsername} or email me at ${data.email} \n\n`

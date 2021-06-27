@@ -1,30 +1,25 @@
-# Readme Generator 
+# README Generator 
 
-## MOTIVATION 
-	 * I wanted to automate the creation of a readme file. 
+## DESCRIPTION: 
+	 * This application automates the creation of a README.md file.
+ 
 
-## PROBLEM SOLVED 
-	 * It creates a more polished and professional readme file.
+## HOW TO INSTALL: 
+	 * Type 'node index'. 
 
+## USAGES: 
+	 ![README Generator](images/readmescreen.png) 
 
-## LESSONS LEARNE  
-	 * I learned how to use Inquierer.js. 
+## CONTRIBUTING: 
+	 *  There are many ways in which you can participate in this project, for example:
 
-## HOW TO INSTALL 
-	 * Type 'node index' 
+* [Submit bugs and feature requests](https://github.com/ket2310/READMEGenerator/issues), and help us verify as they are checked in
+* Review [source code changes](https://github.com/ket2310/READMEGenerator/pulls)
+ 
 
-## USAGES 
-	 * [screenshot here] 
-
-## CREDITS 
-	 *   
-
-## LICENCES 
+## LICENCES: 
 	 * MIT 
 
-## GITHUB USERNAME 
-	 * ket2310 
-
-## EMAIL 
-	 * dablumaroon@gmail.com 
+## QUESTIONS: 
+	 * See github.com/ket2310 or email me at dablumaroon@gmail.com 
 

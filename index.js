@@ -65,7 +65,7 @@ function writeToFile(fileName, data) {
 function init() {
   inquirer.prompt(questions).then((answers) => {
     //console.log(JSON.stringify(answers, null, "  "));
-    writeToFile('./output/README.md', generateMarkdown(answers));
+    writeToFile('./README.md', generateMarkdown(answers));
   });
 };
 
