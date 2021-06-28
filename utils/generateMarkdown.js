@@ -13,12 +13,21 @@ function renderLicenseSection(license) {}
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return  `# ${data.projectTitle} \n\n` + 
-  `## DESCRIPTION: \n\t * ${data.description} \n\n` +
-  `## HOW TO INSTALL: \n\t * ${data.installation} \n\n` +
-  `## USAGES: \n\t ${data.usages} \n\n` +
-  `## CONTRIBUTING: \n\t *  ${data.contributing} \n\n` +
-  `## LICENCES: \n\t * ${data.license} \n\n` +
-  `## QUESTIONS: \n\t * See github.com/${data.ghUsername} or email me at ${data.email} \n\n`
+  `## DESCRIPTION: \n\t ${data.description} \n\n` +
+
+  `## Table of Contents
+- [Installation](#installation)
+- [Usage](#usages)
+- [Contribution](#contributing)
+- [License](#license)
+- [Contact Me](#ghUsername) \n\n` +
+
+
+  `## HOW TO INSTALL: \n\t  ${data.installation} \n\n` +
+  `## USAGES: \n ${data.usages} \n\n` +
+  `## CONTRIBUTING: \n\t ${data.contributing} \n\n` +
+  `## LICENCES: \n\t  ${data.license} \n\n` +
+  `## QUESTIONS: \n\t See github.com/${data.ghUsername} or email me at ${data.email} \n\n`
 }
 
 module.exports = generateMarkdown;
