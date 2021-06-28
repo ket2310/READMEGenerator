@@ -21,7 +21,7 @@ const questions = [
     name: 'description',
   },
   {
-    type: 'editor',
+    type: 'input',
     message: 'What are the steps required to install your project?',
     name: 'installation',
   },
@@ -38,7 +38,7 @@ const questions = [
   {
     type: 'list',
     message: 'Licenses:',
-    name: 'license',
+    name: 'licenses',
     choices: ['MIT', 'GNU', 'Apache', 'CDDL', 'BSD', 'Ms-PL'],
   },
   {

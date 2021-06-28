@@ -19,14 +19,14 @@ function generateMarkdown(data) {
 - [Installation](#installation)
 - [Usage](#usages)
 - [Contribution](#contributing)
-- [License](#license)
+- [License](#licenses)
 - [Contact Me](#ghUsername) \n\n` +
 
 
   `## HOW TO INSTALL: \n\t  ${data.installation} \n\n` +
   `## USAGES: \n ${data.usages} \n\n` +
   `## CONTRIBUTING: \n\t ${data.contributing} \n\n` +
-  `## LICENCES: \n\t  ${data.license} \n\n` +
+  `## LICENCES: \n\t  ${data.licenses} \n\n` +
   `## QUESTIONS: \n\t See github.com/${data.ghUsername} or email me at ${data.email} \n\n`
 }
 
