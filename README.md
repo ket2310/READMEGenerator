@@ -14,7 +14,11 @@
 	  Type 'node index' 
 
 ## USAGES: 
+<<<<<<< HEAD
   
+=======
+![README Generator](images/ReadMeScreen.png) 
+>>>>>>> 8960f7e94a6416a3710913ee0440b182221c7826
 
 ## CONTRIBUTING: 
 	 There are many ways in which you can participate in this project, for example:
