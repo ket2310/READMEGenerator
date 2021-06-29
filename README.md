@@ -1,24 +1,20 @@
 # README Generator 
 
 ## DESCRIPTION: 
-	 This application automates the creation of a readme file. 
+	 This application automates the creation of a README file. 
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usages)
 - [Contribution](#contributing)
 - [License](#license)
-- [Contact Me](#ghUsername) 
+- [Contact Me](#contact-me) 
 
-## HOW TO INSTALL: 
+## INSTALLATION: 
 	  Type 'node index' 
 
 ## USAGES: 
-<<<<<<< HEAD
-  
-=======
-![README Generator](images/ReadMeScreen.png) 
->>>>>>> 8960f7e94a6416a3710913ee0440b182221c7826
+ ![README Generator](images/ReadMeScreen.png) 
 
 ## CONTRIBUTING: 
 	 There are many ways in which you can participate in this project, for example:
@@ -27,9 +23,15 @@
 * Review [source code changes](https://github.com/ket2310/READMEGenerator/pulls)
  
 
-## LICENCES: 
-	  MIT 
+## LICENSE: 
+	 
 
-## QUESTIONS: 
-	 See github.com/https://github.com/ket2310 or email me at dablumaroon@gmail.com 
+## GNU 
+
+### GNU GPL v3 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
+`[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)` 
+
+## Contact Me: 
+	 See https://github.com/ket2310 or email me at dablumaroon@gmail.com 
 
