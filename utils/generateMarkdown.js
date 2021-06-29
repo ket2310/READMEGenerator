@@ -55,6 +55,7 @@ function generateMarkdown(data) {
 - [Installation](#installation)
 - [Usage](#usages)
 - [Contribution](#contributing)
+<<<<<<< HEAD
 - [License](#license)
 - [Contact Me](#contact-me) \n\n` +
 
@@ -66,6 +67,17 @@ function generateMarkdown(data) {
     `## LICENSE: \n\t ${renderLicenseSection(lic)} \n` +
     `${renderLicenseBadge(lic)} \n` + `${renderLicenseLink(lic)} \n\n` +
     `## Contact Me: \n\t See ${data.ghUsername} or email me at ${data.email} \n\n`
+=======
+- [License](#licenses)
+- [Contact Me](#ghUsername) \n\n` +
+
+
+  `## HOW TO INSTALL: \n\t  ${data.installation} \n\n` +
+  `## USAGES: \n ${data.usages} \n\n` +
+  `## CONTRIBUTING: \n\t ${data.contributing} \n\n` +
+  `## LICENCES: \n\t  ${data.licenses} \n\n` +
+  `## QUESTIONS: \n\t See github.com/${data.ghUsername} or email me at ${data.email} \n\n`
+>>>>>>> d103ea5fb70d030949e594c0cbeffb3291c5fa0f
 }
 
 module.exports = generateMarkdown;

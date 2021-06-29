@@ -37,9 +37,15 @@ const questions = [
   },
   {
     type: 'list',
+<<<<<<< HEAD
     message: 'License:',
     name: 'license',
     choices: ['MIT', 'GNU', 'Apache', ''],
+=======
+    message: 'Licenses:',
+    name: 'licenses',
+    choices: ['MIT', 'GNU', 'Apache', 'CDDL', 'BSD', 'Ms-PL'],
+>>>>>>> d103ea5fb70d030949e594c0cbeffb3291c5fa0f
   },
   {
     type: 'input',

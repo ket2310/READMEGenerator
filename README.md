@@ -1,17 +1,30 @@
 # README Generator 
 
 ## DESCRIPTION: 
+<<<<<<< HEAD
 	 This application automates the creation of a README file. 
+=======
+	 This application automates the creation of a readme file.
+ 
+>>>>>>> d103ea5fb70d030949e594c0cbeffb3291c5fa0f
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usages)
 - [Contribution](#contributing)
+<<<<<<< HEAD
 - [License](#license)
 - [Contact Me](#contact-me) 
 
 ## INSTALLATION: 
 	  Type 'node index' 
+=======
+- [License](#licenses)
+- [Contact Me](#ghUsername) 
+
+## HOW TO INSTALL: 
+	  Type 'node index'' 
+>>>>>>> d103ea5fb70d030949e594c0cbeffb3291c5fa0f
 
 ## USAGES: 
  ![README Generator](images/ReadMeScreen.png) 
